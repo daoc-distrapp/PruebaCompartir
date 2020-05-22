@@ -6,7 +6,8 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		System.out.println("Hola");
-		System.out.println("Hola");
+		System.out.println("prueba desde host2");
+
 	}
 
 }
